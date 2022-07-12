@@ -1,4 +1,4 @@
 # HTML-CSS
 Basic HTML and CSS Code
 
-All Code was uploaded at https://internetingishard.com
+All code got from https://internetingishard.com
